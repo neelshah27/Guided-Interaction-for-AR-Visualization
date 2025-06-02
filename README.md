@@ -7,7 +7,7 @@
 ---
 <!-- Demo video playable in GitHub (HTML5 video tag) -->
 <video width="640" controls>
-  <source src="utilities/ViaLab_demo.mp4" type="video/mp4">
+  <source src="utilities/DEMO - Towards Asynchronous Collaborative Techniques for Guided Data Analysis on Augmented Reality Visualizationsd.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
