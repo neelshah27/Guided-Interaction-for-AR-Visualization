@@ -7,10 +7,7 @@
 ---
 ## Demo Video
 
-[![Watch the 5-minute demo](https://img.youtube.com/vi/FWT4_I4quno/0.jpg)](https://youtu.be/FWT4_I4quno)
-
-_Click the image above to view the demo on YouTube (unlisted)._  
-
+[![Watch the 5-minute demo](https://img.youtube.com/vi/FWT4_I4quno/0.jpg)](https://youtu.be/FWT4_I4quno)  
 
 
 ## Overview  
